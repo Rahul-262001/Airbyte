@@ -42,5 +42,4 @@ https://airbyte.com/product/connector-development-kit
 - **Getting Started**: You can generate an empty connector using the code generator. After generating, you will find all TODOs in the generated project directory. They're accompanied by comments explaining what you'll need to do in order to implement your connector.
 - **Concepts & Documentation**: If you want to learn more about the classes required to implement an Airbyte Source, head to the basic concepts doc. For tips on useful Python knowledge, see the Python Concepts page.
 - **Tutorials**: You can find a complete tutorial for implementing an HTTP source connector in this tutorial.
-- **Developer updates**: Announcements and updates are shared through the #help-connector-development Slack channel.
 
