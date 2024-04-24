@@ -2,16 +2,15 @@
 
 ## there are three ways this can work 
 * No Code
-** ```URL
+ ```URL
   https://www.youtube.com/watch?v=mE655VHbP-c&feature=youtu.be
   ```
 * Low Code
-** ```URL
+ ```URL
   https://www.youtube.com/watch?v=i7VSL2bDvmw
-  https://www.youtube.com/watch?v=sfCr6JjSH_Y
   ```
 * Language Specific
-** ```URL
+ ```URL
   https://www.youtube.com/watch?v=sfCr6JjSH_Y
   ```
 ``` URL
